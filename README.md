@@ -30,10 +30,8 @@
 
 ### 🎙️ a bit about me
 
-`23 yrs old` · `self-taught everything`  
+`24 yrs old` · `self-taught everything`  
 `fascinated by talent, systems, incentives & the internet as a playground`  
-
-i ship because the alternative is regret.
 
 ---
 
