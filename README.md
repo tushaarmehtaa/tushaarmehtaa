@@ -1,5 +1,6 @@
-<h1 align="center">hey, i'm tushaar 👋</h1>
-<p align="center">writer → marketer → builder — making things i wish existed</p>
+<h1 align="center">hey, i'm tushaar</h1>
+
+<p align="center">writer → marketer → builder</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tushaarmehtaa&label=profile+views" alt="profile views" />
@@ -7,22 +8,29 @@
 
 ---
 
-### 🛠 what i'm building
+writer first. taught myself to code. now i do both at once.
 
-- **bangers only** — write tweets in your voice. no cringe, no templates, no generic ai slop.
-- **[tushar-skills](https://github.com/tushaarmehtaa/tushar-skills)** — claude code skills for ai products: deploy checks, model audits, unit economics, changelogs.
-
----
-
-### 🗂 recent builds
-
-- **[premium-reader](https://github.com/tushaarmehtaa/premium-reader)** — chrome extension + web app that turns any article into a focused reading experience. ai highlights the one sentence that actually matters in each paragraph.
-- **[majnu](https://github.com/tushaarmehtaa/majnu)** — dark-comedy bollywood word game. guess the word before majnu bhai meets his fate.
-- **[hand-particle-system](https://github.com/tushaarmehtaa/hand-particle-system)** — 3d particles that follow your hands in real time using ai hand tracking.
+24 · bangalore · self-taught everything · fascinated by talent, systems, and the internet as a playground.
 
 ---
 
-### 🧰 stack i love messing with
+### building
+
+**bangers only** — write tweets in your voice. trained on your best posts, not generic templates. no cringe.
+
+**[tushar-skills](https://github.com/tushaarmehtaa/tushar-skills)** — plug-and-play claude code skills for ai products. deploy checks, cost audits, unit economics, changelogs.
+
+---
+
+### recent
+
+- **[premium-reader](https://github.com/tushaarmehtaa/premium-reader)** — chrome extension that reads with you. ai picks the one sentence that matters in each paragraph. three modes: read, scan, reference.
+- **[majnu](https://github.com/tushaarmehtaa/majnu)** — bollywood word game. guess the word before majnu bhai meets his fate. leaderboards, streaks, dark comedy.
+- **[hand-particle-system](https://github.com/tushaarmehtaa/hand-particle-system)** — 3d particles that follow your hands in real time. no controllers.
+
+---
+
+### stack
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
@@ -32,17 +40,7 @@
 
 ---
 
-### 🎙️ a bit about me
-
-`24 yrs old` · `self-taught everything`
-`fascinated by talent, systems, incentives & the internet as a playground`
-
----
-
-### 💬 say hi
-
-- 🧵 [@tushaarmehtaa](https://twitter.com/tushaarmehtaa)
-- 🪄 [newsletter](https://tushaarmehtaa.substack.com/)
+**find me** → [@tushaarmehtaa](https://twitter.com/tushaarmehtaa) · [newsletter](https://tushaarmehtaa.substack.com/) · [tushaarmehtaa.xyz](https://tushaarmehtaa.xyz)
 
 ---
 
