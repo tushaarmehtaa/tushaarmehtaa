@@ -20,13 +20,7 @@ writer first. taught myself to code. now i do both at once.
 
 **[slash skills](https://slashskills.vercel.app/)** — plug-and-play claude code skills directory. deploy checks, cost audits, changelogs, unit economics.
 
----
-
-### recent
-
-- **[zero to ai-native](https://zero-to-ai-native-seven.vercel.app/)** — best papers, guides and lectures on ai, grouped by level. straight from the people building it.
-- **[premium-reader](https://github.com/tushaarmehtaa/premium-reader)** — chrome extension that reads with you. ai picks the one sentence that matters per paragraph. three modes: read, scan, reference.
-- **[majnu](https://github.com/tushaarmehtaa/majnu)** — bollywood word game. guess the word before majnu bhai meets his fate. leaderboards, streaks, dark comedy.
+**[zero to ai-native](https://zero-to-ai-native-seven.vercel.app/)** — best papers, guides and lectures on ai, grouped by level. straight from the people building it.
 
 ---
 
