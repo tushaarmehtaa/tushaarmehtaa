@@ -1,6 +1,6 @@
 <h1 align="center">hey, i'm tushaar</h1>
 
-<p align="center">writer → marketer → builder</p>
+<p align="center">writer · builder · self-taught</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tushaarmehtaa&label=profile+views" alt="profile views" />
@@ -10,23 +10,23 @@
 
 writer first. taught myself to code. now i do both at once.
 
-24 · bangalore · self-taught everything · fascinated by talent, systems, and the internet as a playground.
+24 · bangalore · fascinated by talent, systems, and the internet as a playground.
 
 ---
 
 ### building
 
-**bangers only** — write tweets in your voice. trained on your best posts, not generic templates. no cringe.
+**[bangers only](https://bangersonly.xyz)** — write tweets in your voice. trained on your best posts, not generic templates. no cringe.
 
-**[tushar-skills](https://github.com/tushaarmehtaa/tushar-skills)** — plug-and-play claude code skills for ai products. deploy checks, cost audits, unit economics, changelogs.
+**[slash skills](https://slashskills.vercel.app/)** — plug-and-play claude code skills directory. deploy checks, cost audits, changelogs, unit economics.
 
 ---
 
 ### recent
 
-- **[premium-reader](https://github.com/tushaarmehtaa/premium-reader)** — chrome extension that reads with you. ai picks the one sentence that matters in each paragraph. three modes: read, scan, reference.
+- **[zero to ai-native](https://zero-to-ai-native-seven.vercel.app/)** — best papers, guides and lectures on ai, grouped by level. straight from the people building it.
+- **[premium-reader](https://github.com/tushaarmehtaa/premium-reader)** — chrome extension that reads with you. ai picks the one sentence that matters per paragraph. three modes: read, scan, reference.
 - **[majnu](https://github.com/tushaarmehtaa/majnu)** — bollywood word game. guess the word before majnu bhai meets his fate. leaderboards, streaks, dark comedy.
-- **[hand-particle-system](https://github.com/tushaarmehtaa/hand-particle-system)** — 3d particles that follow your hands in real time. no controllers.
 
 ---
 
