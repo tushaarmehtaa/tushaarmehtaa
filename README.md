@@ -1,43 +1,33 @@
-<h1 align="center">hey, i'm tushaar</h1>
+# hey, i'm tushaar.
 
-<p align="center">writer · builder · self-taught</p>
+**Writer turned builder. I make AI products, write about what I learn, and help other people ship.**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tushaarmehtaa&label=profile+views" alt="profile views" />
-</p>
+Self-taught, based in Bangalore. I co-run **AI & Weekends**, a community for people learning AI by building with it.
 
----
+[Website](https://tushaarmehtaa.xyz) · [X](https://x.com/tushaarmehtaa) · [Writing](https://tushaarmehtaa.substack.com/)
 
-writer first. taught myself to code. now i do both at once.
+## Selected work
 
-24 · bangalore · fascinated by talent, systems, and the internet as a playground.
+| Project | What I built |
+| --- | --- |
+| **[Bangers Only](https://bangersonly.xyz)** | An AI writing product for turning ideas into tweets, with personal voice profiles, editing, saved drafts, and image creation. |
+| **[Slashskills](https://www.slashskills.xyz)** · [code](https://github.com/tushaarmehtaa/tushar-skills) | Reusable agent workflows drawn from real projects, with the instructions and tools needed to run them. |
+| **[Zero to AI-native](https://www.zerotoainative.xyz)** · [code](https://github.com/tushaarmehtaa/zero-to-ai-native) | A learning path through primary-source AI material, from fundamentals to production systems. |
+| **[Arth](https://github.com/tushaarmehtaa/arth)** | Meeting intelligence for how India talks: code-switched speech, searchable transcripts, decisions, and action items. |
+| **[Open Model Arena](https://github.com/tushaarmehtaa/open-model-arena)** | Head-to-head model comparisons with streamed responses, blind judging, and actual cost reporting. |
 
----
+## Beyond my own repos
 
-### building
+I contribute reusable workflows and learning resources to community projects.
 
-**[bangers only](https://bangersonly.xyz)** — write tweets in your voice. trained on your best posts, not generic templates. no cringe.
+- **Merged:** [Added Slashskills to Awesome Agent Skills](https://github.com/junminhong/awesome-agent-skills/pull/46).
+- **Under review:** [Decision Document skill for Composio's skill collection](https://github.com/ComposioHQ/awesome-claude-skills/pull/1871).
+- **Under review:** [Zero to AI-native for Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai/pull/1303).
 
-**[slash skills](https://slashskills.vercel.app/)** — plug-and-play claude code skills directory. deploy checks, cost audits, changelogs, unit economics.
-
-**[zero to ai-native](https://zero-to-ai-native-seven.vercel.app/)** — best papers, guides and lectures on ai, grouped by level. straight from the people building it.
-
----
-
-### stack
-
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
-![Anthropic](https://img.shields.io/badge/-Anthropic-000?logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white)
+[More public contributions](https://github.com/pulls?q=is%3Apr+author%3Atushaarmehtaa+-user%3Atushaarmehtaa)
 
 ---
 
-**find me** → [@tushaarmehtaa](https://twitter.com/tushaarmehtaa) · [newsletter](https://tushaarmehtaa.substack.com/) · [tushaarmehtaa.xyz](https://tushaarmehtaa.xyz)
+Usually working with **TypeScript, React / Next.js, Python / FastAPI, and Supabase**. Currently exploring native iOS with SwiftUI.
 
----
-
-<p align="center">
-  <i>"no depth, no fun."</i>
-</p>
+*no depth, no fun.*
